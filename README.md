@@ -1,5 +1,5 @@
 
-# Resume Screening Project
+# ResuMate Project
 
 A Python-based application that utilizes machine learning and natural language processing techniques to automate the resume screening process. This project reads a resume as input and predicts the most suitable job title based on its content. The application uses data from Kaggle for training, and multiple Jupyter notebooks (`.ipynb`) are included for experimentation and analysis.
 
