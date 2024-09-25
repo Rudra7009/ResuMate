@@ -13,8 +13,8 @@ A Python-based application that utilizes machine learning and natural language p
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/resume-screening-project.git
-   cd resume-screening-project
+   git clone https://github.com/Rudra7009/ResuMate.git
+   cd ResuMate
 2. Install dependencies:
    pip install -r requirements.txt
 3. Download the Kaggle dataset:
