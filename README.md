@@ -29,7 +29,7 @@ A Python-based application that utilizes machine learning and natural language p
 jupyter notebook
 Open the preprocessing.ipynb and model_training.ipynb notebooks to execute the required steps.
 
-2. To predict the job title for a new resume, use the following Python command:
+2. To predict the job title for a new resume, use the following Python command :
 
 
 python predict_job_title.py --resume <path-to-resume>
